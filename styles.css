@@ -1,0 +1,20 @@
+body{
+    display:flex;
+    justify-content: center;
+    
+}
+h1{
+    background: blue text;
+    color:transparent;
+    font-size: 4em;
+    margin:10px;
+    text-shadow: 0 -2px 2px red;
+    text-decoration:double underline;
+    /* text-decoration-color:; */
+}
+img{
+    border-radius:50px;
+    border: 2px solid black;
+    box-shadow: 0 0 5px;
+    margin:5px;
+}
